@@ -8,13 +8,21 @@
 <details open="open">
   <summary>Contents [hide]</summary>
  <br> 
-   
-1. [About]
-2. [Education](#About-the-project)
-3. [Hobbies]
-4. [Contact]
+
+1. [Current](#Current)
+2. [About](#About)
+3. [Education](#Education)
+4. [Hobbies](#Hobbies)
+5. [Contact](#Contact)
 
 </details>
 
+## Current
+
 ## About
 
+## Education
+
+## Hobbies
+
+## Contact
