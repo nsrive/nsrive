@@ -21,6 +21,36 @@
 
 ## About
 
+<details><summary>View Class Nicole</summary>
+<p>
+  
+```
+class Nicole
+  def initialize
+    @name = 'Nicole Rivera'
+    @age = 25
+    @work = 'Technology Trainee'
+    @education = [ 'University of Florida', 'University of Virginia' ]
+    @hobbies = [ 'Eating', 'F1', 'Travel' ]
+  end
+
+  def current_location
+    'Florida, USA'
+  end
+
+  def currently
+    {
+      craving: 'Vegan Ube Milkshakes',
+      reading: 'Crisis in the Red Zone: The Story of the Deadliest Ebola Outbreak in History, and of the Outbreaks to Come - Richard Preston',
+      learning: 'Angular'
+     }
+  end
+end
+```
+  
+</p>
+</details>
+
 ## Education
 
 ## Hobbies
