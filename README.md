@@ -19,6 +19,10 @@
 
 ## Current
 
+Nicole is a part of the 2021 HCA training class. She resides amongst Mickey Mouse, humidity, and gators in the swamps of Florida.
+
+As of October 4, 2021, Nicole is working on learning Angular. You may view the project she is working on [here](#here). 
+
 ## About
 
 <details><summary>View Class Nicole</summary>
@@ -52,6 +56,8 @@ end
 </details>
 
 ## Education
+
+After graduating High School, Nicole moved to Gainesville, FL to pursue her BA in History at The University of Florida, a top five public university. After acquiring her degree, she attended an arechological summer graduate program at The University of Virginia (another top five public university). While she enjoyed her time there, the Indiana Jones movies failed to show the long days, excessive paperwork, and shaky job security arechology offered. In October 2018, she made her shift into the insurance industry.
 
 ## Hobbies
 
